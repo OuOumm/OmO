@@ -181,7 +181,7 @@ html ::-webkit-scrollbar-thumb,html::-webkit-scrollbar-thumb{padding-top:100px;m
 .headline span:after{padding:3px 0 3px 11px;border-right:5px solid red;box-shadow:8px -8px 0 -3px #fff;}
 .post-body{padding:50px 100px;background-color:#181818;box-shadow:inset 10px -10px 40px -15px #000,inset -10px -10px 40px -15px #000;}
 .post-img{text-align:center;}
-.post img{float:left;margin:22px 15px 0 20px;max-width:30.5%;border:5px solid #fff;opacity:.8;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;-ms-transition:all 1s ease;}
+.post img{float:left;margin:22px 15px 0 20px;max-width:50vh;border:5px solid #fff;opacity:.8;-webkit-transition:all 1s ease;-moz-transition:all 1s ease;-o-transition:all 1s ease;transition:all 1s ease;-ms-transition:all 1s ease;}
 .post img:hover{opacity:1;}
 .contents-wrap{margin:0 auto;max-width:1000px;}
 .full li,.full p{word-wrap:break-word;letter-spacing:1px;line-height:24px;}
